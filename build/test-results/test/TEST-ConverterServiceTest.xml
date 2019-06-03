@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConverterServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-03T18:45:15" hostname="FirstBook.local" time="0.013">
+  <properties/>
+  <testcase name="checkNumberToWord" classname="ConverterServiceTest" time="0.005"/>
+  <testcase name="checkEmptyInputResultToException" classname="ConverterServiceTest" time="0.003"/>
+  <testcase name="checkNegativeNumberResultToException" classname="ConverterServiceTest" time="0.001"/>
+  <testcase name="checkHigherNumberResultToException" classname="ConverterServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
